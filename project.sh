@@ -1,2 +1,1 @@
-echo "******** Welcome ********"
-echo "This is my sample job"
+echo "Jenkins Learning. This is my first job"
